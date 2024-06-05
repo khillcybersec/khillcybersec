@@ -4,7 +4,7 @@
   
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>SEIM Azure Sentinel Attacks </b>
+- <b>Password Strength Checker </b>
 (https://github.com/joshmadakor1/Sentinel-Lab/blob/main/Custom_Security_Log_Exporter.ps1)
 
 <h2> 🤳 Connect with me:</h2>
